@@ -1,0 +1,1 @@
+3D printed Raspberry Pi Pico H-Bot plotter programmed in MicroPython capable of drawing on paper and burning wood with versatip. 

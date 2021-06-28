@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2021-05-15T10:18:15Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.5.1"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "plotter"
+        },
+        "Owner": "Nikodem Bartnik <nikodem.bartnik@gmail.com>",
+        "Size": {
+            "X": 85.09,
+            "Y": 81.788
+        }
+    }
+}

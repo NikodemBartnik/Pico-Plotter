@@ -1,0 +1,2 @@
+Here are links to libraries I used for this PCB:
+https://github.com/Lobo-T/RPI-Pico-Eagle-lib
