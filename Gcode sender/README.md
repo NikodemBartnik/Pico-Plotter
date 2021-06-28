@@ -1,0 +1,1 @@
+Very simple command line based Gcode sender. Not really useful for bigger projects, but great to understand how such things work, experiment and control the Pico Plotter.
