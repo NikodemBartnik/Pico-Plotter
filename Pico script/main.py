@@ -23,8 +23,6 @@ SERVO_PIN = 21
 x_step_pos = 0
 y_step_pos = 0
 
-#variables just for testing
-
 
 dir_A = Pin(DIR_A, Pin.OUT)
 step_A = Pin(STEP_A, Pin.OUT)
@@ -89,7 +87,7 @@ def MoveToPosition(x, y):
             StepsDelay()
         
     else:
-        sliced_axis_error = 0;
+        sliced_axis_error = 0
         sliced_axis_increment = b_steps_to_do/a_steps_to_do if a_steps_to_do > b_steps_to_do else a_steps_to_do/b_steps_to_do
         
         if a_steps_to_do > b_steps_to_do:
@@ -186,4 +184,3 @@ EnableMotors()
 ServoInit()
 while(1):
     ExecuteGcode(ProcessGcode(str(UartRead(), "utf-8")))
-    
