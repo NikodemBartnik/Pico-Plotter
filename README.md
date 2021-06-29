@@ -1,5 +1,5 @@
 # Pico Plotter
-![Pico Plotter image](../Docs/Images/mini.JPG)
+![Pico Plotter image](Docs/Images/mini.JPG)
 3D printed Raspberry Pi Pico H-Bot plotter programmed in MicroPython capable of drawing on paper and burning wood with versatip.
 
 ## Description
